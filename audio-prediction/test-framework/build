@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker rmi -f audio:latest
+docker build -t audio:latest .

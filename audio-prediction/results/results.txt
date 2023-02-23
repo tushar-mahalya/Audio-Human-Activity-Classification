@@ -1,0 +1,14 @@
+Markov model all 2032 unique events
+Train: 67217 rows
+Validation: 9668 rows
+Accuracy: 27.290343416944772 %
+
+Markov model filtered events: sponge, rag, counter, sink
+Train: 1955 rows
+Validation: 183 rows
+Accuracy: 60.65573770491803 %
+
+Markov model filtered events: counter, sink
+Train: 371 rows
+Validation: 62 rows
+Accuracy: 70.96774193548387 %

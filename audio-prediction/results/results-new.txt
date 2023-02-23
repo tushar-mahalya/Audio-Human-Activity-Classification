@@ -1,0 +1,13 @@
+Markov model all 2032 unique events
+Train: 67217 rows
+Validation: 9668 rows
+Accuracy: 27.290343416944772 %
+
+Markov model filtered events: door, light, plate
+Train: 2624 rows
+Validation: 438 rows
+Accuracy: 80.59360730593608 %
+
+Markov model output with audio classifier input
+Rows: 438
+Accuracy: 74.87 % 
